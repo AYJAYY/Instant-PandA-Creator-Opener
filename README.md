@@ -1,6 +1,6 @@
 # Instant-PandA-Creator-Opener
 
-Written in Python 2.7
+<strong>Written in Python 2.7</strong>
 
 Creates PandA links from preview links and opens them in a new tab instantly.
 
@@ -8,5 +8,4 @@ You can leave this running all day and whenever you need to turn a preview link 
 
 If you put in a link it can't handle it will give an error.
 
-
-Windows Users: Run panda.exe in the Windows Version folder.
+<strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the Windows Version 1.0 folder and run ```panda.exe```
