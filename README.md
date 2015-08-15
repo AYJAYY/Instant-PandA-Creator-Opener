@@ -1,7 +1,6 @@
 # Instant PandA Creator - Opens Instantly
 
-<strong>Written in Python 2.*</strong> (Not Python3 Tested)<br>
-No Python Package Requirements
+<strong>Written in Python 2.7</strong>
 
 Creates PandA links from preview links and opens them in a new tab instantly.
 
@@ -11,6 +10,9 @@ If you put in a link it can't handle it will give an error.
 
 <strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```
 
+<strong>Screenshot:</strong><br>
+<img src= "http://tinyurl.com/ohqf47k">
+
+
 <strong>CPU / Memory / Disk / Network Usage:</strong><br>
-As you can see this program uses less than 1MB of RAM and little to no CPU.
 <img src ="http://tinyurl.com/p68oehj">
