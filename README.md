@@ -1,6 +1,7 @@
 # Instant PandA Creator - Opens Instantly
 
-<strong>Written in Python 2.7</strong>
+<strong>Written in Python 2.*</strong> (Not Python3 Tested)
+No Requirements
 
 Creates PandA links from preview links and opens them in a new tab instantly.
 
