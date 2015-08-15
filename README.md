@@ -1,4 +1,4 @@
-# Instant-PandA-Creator-Opener
+# Instant PandA Creator - Opens Instantly
 
 <strong>Written in Python 2.7</strong>
 
