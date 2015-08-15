@@ -8,7 +8,7 @@ You can leave this running all day and whenever you need to turn a preview link 
 
 If you put in a link it can't handle it will give an error.
 
-<strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```
+<strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```. You should be able to use Ctrl + C and Ctrl + V to paste the preview link into the program.
 
 <strong>Screenshot:</strong><br>
 <img src= "http://tinyurl.com/shotvbtest">
