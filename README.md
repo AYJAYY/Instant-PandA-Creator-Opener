@@ -11,5 +11,5 @@ If you put in a link it can't handle it will give an error.
 <strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```
 
 <strong>CPU / Memory / Disk / Network Usage:</strong><br>
-As you can see this program uses less than 1MB of RAM and little to no CPU.
+<center>As you can see this program uses less than 1MB of RAM and little to no CPU.</center>
 <img src ="http://tinyurl.com/p68oehj">
