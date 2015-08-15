@@ -9,3 +9,6 @@ You can leave this running all day and whenever you need to turn a preview link 
 If you put in a link it can't handle it will give an error.
 
 <strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```
+
+<strong>CPU / Memory / Disk / Network Usage:</strong><br>
+<img src ="http://tinyurl.com/p68oehj">
