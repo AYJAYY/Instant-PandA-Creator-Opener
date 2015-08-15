@@ -11,7 +11,7 @@ If you put in a link it can't handle it will give an error.
 <strong>Windows Users:</strong> Click "Download ZIP" on the right side of the page. Extract the ```Windows Version 1.0``` folder and run ```panda.exe```
 
 <strong>Screenshot:</strong><br>
-<img src= "http://tinyurl.com/ohqf47k">
+<img src= "http://tinyurl.com/shotvbtest">
 
 
 <strong>CPU / Memory / Disk / Network Usage:</strong><br>
