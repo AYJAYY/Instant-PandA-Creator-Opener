@@ -14,4 +14,6 @@ while True:
         webbrowser.open(link, new=new_tab)
 
     except:
+        # If there is any kind of error - This is currently a catch all
+        # This will appear for ANY error
         print "Invalid URL"
