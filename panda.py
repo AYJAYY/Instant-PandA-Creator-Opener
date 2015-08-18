@@ -1,3 +1,4 @@
+# This is a standard package in Python 2.* 
 import webbrowser
 
 while True:
