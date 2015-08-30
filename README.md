@@ -17,3 +17,6 @@ If you put in a link it can't handle it will give an error.
 <strong>CPU / Memory / Disk / Network Usage:</strong><br>
 As you can see this program uses less than 1MB of RAM and little to no CPU.
 <img src ="http://tinyurl.com/p68oehj">
+
+
+Don't Feel Safe? - Fully Open Source - All code is viewable in plaintext in panda.py
