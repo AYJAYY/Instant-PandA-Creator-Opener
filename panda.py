@@ -1,7 +1,9 @@
 # This is a standard package in Python 2.* 
 import webbrowser
 
+# This will keep the program running after you enter a preview link
 while True:
+    # Try to make the PandA
     try:
         # Get the Preview URL
         url_to_split = raw_input("Enter URL:")
@@ -13,8 +15,7 @@ while True:
         new_tab = 2
         # Open the browser with the PandA
         webbrowser.open(link, new=new_tab)
-
+    # If it fails to make the PandA in anyway print out "Invalid URL"
     except:
         # If there is any kind of error - This is currently a catch all
-        # This will appear for ANY error
         print "Invalid URL"
