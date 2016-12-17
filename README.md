@@ -1,5 +1,8 @@
 # Instant PandA Creator - Opens Instantly
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70096974fc440498fd149eed21a061d)](https://www.codacy.com/app/ajbbb/Instant-PandA-Creator-Opener?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AYJAYY/Instant-PandA-Creator-Opener&amp;utm_campaign=badger)
+
 <strong>Written in Python 2.7</strong>
 
 Creates PandA links from preview links and opens them in a new tab instantly.
